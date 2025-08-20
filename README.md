@@ -1,7 +1,19 @@
 # `MilestoneBlock`
 
-Welcome to your new `MilestoneBlock` project and to the Internet Computer development community. By default, creating a new project adds this README and some template files to your project directory. You can edit these template files to customize your project and to include your own code to speed up the development cycle.
+MilestoneBlock is a blockchain-powered platform designed to track, verify, and incentivize the achievement of personal or collective goals. It creates an immutable record of progress, fostering accountability and motivation through transparent, verifiable milestones.
 
+🏠 Home Screen
+The Home screen shows the current list of milestones. When no goals are set, users are prompted to begin their journey.
+
+"There are no milestones to display" — a clean slate, ready to be filled with progress.
+
+🙍‍♀️ Profile Screen
+Each user has a Profile page showing their completed and active milestones, reputation, and achievement history — all backed by on-chain proof.
+
+✍️ Create Milestone
+With an intuitive form, users can define a new goal: title, description, due date, and reward logic (e.g., NFTs, tokens, badges). Once created, the goal becomes a verifiable entry recorded on the blockchain
+
+# Get started
 To get started, you might want to explore the project directory structure and the default configuration file. Working with this project in your development environment will not affect any production deployment or identity tokens.
 
 To learn more before you start working with `MilestoneBlock`, see the following documentation available online:
